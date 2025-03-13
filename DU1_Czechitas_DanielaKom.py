@@ -91,3 +91,4 @@ print(dum_1.calculate_tax())
 brno = Locality("Brno", 3)
 kancelar_1 = Residence(brno, 90, True)
 print(kancelar_1.calculate_tax())
+
