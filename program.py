@@ -1,2 +1,2 @@
 print("Czechitas")
-print("Commit č. 2")
+print("Učím se pracovat s Gitem")
